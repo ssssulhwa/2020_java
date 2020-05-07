@@ -1,0 +1,7 @@
+javac Ex _
+java Ex _
+public: 시작점, JVM 호출
+
+System.out.println("결과 : " + result);
+
+조건식 :boolean,비교연산(><), 논리연산(true,false)
