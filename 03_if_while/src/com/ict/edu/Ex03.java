@@ -1,4 +1,4 @@
-package com.ict.edu;
+  package com.ict.edu;
 
 public class Ex03 {
 	public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class Ex03 {
 		// int k1의 점수가 90이상이면 A, 80이상이면 B. 70이상이면 C, 나머지 F
 		int k1 = 91;
 		String res = "";
-		if (k1 >=90) {
+ 		if (k1 >=90) {
 		res = "A" ;
 	}else if (k1 >= 80) {
 		res = "B";
