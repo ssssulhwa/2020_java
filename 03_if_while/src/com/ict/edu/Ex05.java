@@ -82,7 +82,6 @@ public class Ex05 {
 		// System.out.print();
 
 		// System.out.println() : 줄 바꾸기
-		// System.out.print() : 존재 안함
 		// System.out.println(변수나 데이터) : 출력 후 줄 바꾸기
 		// System.out.print(변수나 데이터) : 옆으로 출력하기
 
@@ -90,7 +89,6 @@ public class Ex05 {
 		for (int i = 1; i < 10; i++) {
 			System.out.println("5 * " + 1 + " = " + (5 * i));
 		}
-		//
 		for (int i = 1; i < 5; i++) {
 			System.out.println("0 0 0 0");
 		}
